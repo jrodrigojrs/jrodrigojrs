@@ -2,8 +2,6 @@
 I'm learning React Native and soon I expect to colaborate on your projects!!
 See you 👋
 
-📫 jrod_br@outlook.com
-
 
 <!--
 **jrodrigojrs/jrodrigojrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
